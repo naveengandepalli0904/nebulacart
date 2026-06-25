@@ -1,9 +1,17 @@
+<<<<<<< HEAD
 Prerequisites
+=======
+Prerequisites:-
+>>>>>>> 3e595159ed40e55b9c0f00afa882859f7e2763f6
 
 Install Node.js, VS Code and Git
 Create accounts on GitHub, MongoDB Atlas, Cloudinary, Railway and Vercel
 
+<<<<<<< HEAD
 Setup Instructions
+=======
+Setup Instructions:-
+>>>>>>> 3e595159ed40e55b9c0f00afa882859f7e2763f6
 
 Download and extract nebulacart.zip
 Open the nebulacart folder in VS Code
@@ -19,3 +27,9 @@ Deploy backend on Railway and add environment variables
 Deploy frontend on Vercel and add REACT_APP_API_URL
 Run seeder from Railway console for live database
 
+<<<<<<< HEAD
+=======
+Ai prompts-
+
+ I have no good grip about backend so i used Ai to build the base, then I customized  it by using various tools and prompts , and i take Ai assistance in deployment too
+>>>>>>> 3e595159ed40e55b9c0f00afa882859f7e2763f6
